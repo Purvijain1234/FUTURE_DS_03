@@ -49,7 +49,7 @@ FUTURE_DS_03/
 
 ## 🚀 Interactive Marketing Funnel Dashboard
 
-<img src="dashboard/dashboard.png" width="100%">
+<img src="dashboard/Dashboard.png" width="100%">
 
 ---
 
